@@ -4,6 +4,11 @@ border: 20px solid blue;
 margin: 20px
 }
 .roadtrip{
+  font-family: cursive;
+  color: teal;
+}
+h1{
+  color: yellow;
 
 }
 img {
@@ -11,4 +16,5 @@ img {
   max-height: 50%;
   display: block;
   float: right;
+  border: 20px solid teal;
 }
