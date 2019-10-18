@@ -1,3 +1,7 @@
+
+body {
+  color: gradient(red, yellow, purple)
+}
 .impact {
 padding: 50px;
 border: 20px solid blue;
@@ -8,8 +12,7 @@ margin: 20px
   color: teal;
 }
 h1{
-  color: yellow;
-
+  color: red;
 }
 img {
   max-width: 50%;
@@ -17,4 +20,7 @@ img {
   display: block;
   float: right;
   border: 20px solid teal;
+}
+.coll {
+  color: orange;
 }
