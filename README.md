@@ -11,7 +11,7 @@
 *****************
 # _Setup_
 
-Insert URL into web browser of your choice
+Insert URL https://github.com/lioness3/portfolio-code-review.git into web browser of your choice
 
 # _Technology Used_
 
