@@ -1,23 +1,24 @@
 
 body {
-background-image: "..img/redrock.jpg";
+margin: 20pt;
 }
 .impact {
+font-size: 40
 padding: 50px;
-border: 20px solid blue;
-margin: 20px
+border: 20px solid teal;
+padding:50pt;
 }
-.roadtrip{
-  font-family:arial;
+.roadtrip {
+  font-family: arial;
   color: lightyellow;
-  text-align: left;
-  border:20pt solid green;
-  margin:20pt;
-  background-color: green;
-
+  border:20pt solid teal;
+  background-color: teal;
 }
 h1{
-  color: deepskyblue;
+  color: blue;
+  border: 20px solid teal;
+  background-image: radial-gradient(white, yellow,teal,teal);
+  }
 }
 img {
   max-width: 50%;
@@ -27,8 +28,8 @@ img {
   border: 20pt solid teal;
 }
 .coll {
-  color:green;
+  color:blue;
   font-weight:800;
   font-size:80;
-
+  display: block;
 }
