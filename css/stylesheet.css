@@ -7,7 +7,7 @@ padding: 20px;
 border: 20px solid blue;
 margin: 20px
 }
-.roadtrip{
+.roadip{
   font-family: cursive;
   color: black;
 }
@@ -15,12 +15,9 @@ h1{
   background-image:url("../img/redrock.jpg");
   background-size: contain;
   background-repeat: no-repeat;
-  float: center;
+  float: right;
   color: navy;
   padding: 10%;
-  text-align: center;
-
-
 }
 img {
   max-width: 50%;
@@ -37,10 +34,11 @@ ul {
   font-family: Helvetica;
   font-weight: bold;
 }
-p.code {
+.code {
   font-weight: bold;
+}
 
-h3 {
+ h3{
   background-color: teaL;
   color: white;
 }
