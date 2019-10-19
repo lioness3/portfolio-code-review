@@ -1,6 +1,6 @@
 
 body {
-background: "..img/redrock.jpg";
+background-image: "..img/redrock.jpg";
 }
 .impact {
 padding: 50px;
@@ -8,19 +8,27 @@ border: 20px solid blue;
 margin: 20px
 }
 .roadtrip{
-  font-family: cursive;
-  color: teal;
+  font-family:arial;
+  color: lightyellow;
+  text-align: left;
+  border:20pt solid green;
+  margin:20pt;
+  background-color: green;
+
 }
 h1{
-  color: red;
+  color: deepskyblue;
 }
 img {
   max-width: 50%;
   max-height: 50%;
   display: block;
   float: right;
-  border: 20px solid teal;
+  border: 20pt solid teal;
 }
 .coll {
-  color: orange;
+  color:green;
+  font-weight:800;
+  font-size:80;
+
 }
