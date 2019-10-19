@@ -1,18 +1,26 @@
-
-body {
-  color: gradient(red, yellow, purple)
+body{
+  margin: 50,50;
+  border: 50px solid navy;
 }
 .impact {
-padding: 50px;
+padding: 20px;
 border: 20px solid blue;
 margin: 20px
 }
 .roadtrip{
   font-family: cursive;
-  color: teal;
+  color: black;
 }
 h1{
-  color: red;
+  background-image:url("../img/redrock.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  float: center;
+  color: navy;
+  padding: 10%;
+  text-align: center;
+
+
 }
 img {
   max-width: 50%;
@@ -22,9 +30,17 @@ img {
   border: 20px solid teal;
 }
 .coll {
-  color: orange;
+  color: teal;
+  font-size: 2vw;
 }
-ul ol {
-  font-family: fantasy;
-  font-type: bold
+ul {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+p.code {
+  font-weight: bold;
+
+h3 {
+  background-color: teaL;
+  color: white;
 }
