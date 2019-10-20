@@ -1,13 +1,11 @@
-
 body {
-margin: 20pt;
+margin: 200pt,200pt;
 background-image:repeating-radial-gradient(yellow,pink,lightblue,yellow);
 }
 .impact {
 font-size: 40
-padding: 50px;
+padding: 150pt;
 border: 20px solid teal;
-padding: 20pt;
 }
 .roadtrip {
   font-family: impact;
@@ -35,8 +33,7 @@ img {
   font-size:80;
   display: block;
 }
-img.banner{
+.banner{
   float: none;
   border: none;
-
 }

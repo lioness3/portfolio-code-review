@@ -1,9 +1,11 @@
 # _Portfolio Code Review_
 
 ## _Joann Carter_
-****************
+***
 #### _By: Joann Carter_
-***************
+***
+***
+***
 # _Description_
 
 ##### _This is a website made in HTML format. It contains information about the author.
@@ -19,7 +21,7 @@ Insert URL https://github.com/lioness3/portfolio-code-review.git into web browse
 * Bootstrap
 * CSS
 * Personal Images
-*******
+***
 
 ###### _Licensing_
  MIT public
