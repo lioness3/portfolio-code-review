@@ -1,25 +1,27 @@
 
 body {
 margin: 20pt;
+background-image:repeating-radial-gradient(yellow,pink,lightblue,yellow);
 }
 .impact {
 font-size: 40
 padding: 50px;
 border: 20px solid teal;
-padding:50pt;
+padding: 20pt;
 }
 .roadtrip {
-  font-family: arial;
-  color: lightyellow;
+  font-family: impact;
+  text-align:center;
+  color: yellow;
   border:20pt solid teal;
   background-color: teal;
 }
 h1{
   color: blue;
   border: 20px solid teal;
+  text-align: center;
   background-image: radial-gradient(white, yellow,teal,teal);
   }
-}
 img {
   max-width: 50%;
   max-height: 50%;
@@ -32,4 +34,9 @@ img {
   font-weight:800;
   font-size:80;
   display: block;
+}
+img.banner{
+  float: none;
+  border: none;
+
 }
