@@ -1,6 +1,7 @@
 body{
-  margin: 50,50;
+  margin: 200px,200px;
   border: 50px solid navy;
+  padding: 300px,300px,300px,300px
 }
 .impact {
 padding: 20px;
