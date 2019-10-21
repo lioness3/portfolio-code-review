@@ -21,8 +21,8 @@ h1{
   background-image: radial-gradient(white, yellow,teal,teal);
   }
 img {
-  max-width: 50%;
-  max-height: 50%;
+  max-width: 75%;
+  max-height: 75%;
   display: block;
   float: right;
   border: 20pt solid teal;
@@ -36,4 +36,6 @@ img {
 .banner{
   float: none;
   border: none;
+  margin-left: auto;
+  margin-right: auto;
 }
