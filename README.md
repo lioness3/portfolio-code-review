@@ -13,7 +13,7 @@
 *****************
 # _Setup_
 
-Insert URL https://lioness3.github.io/portfolio-code-review/ into web browser of your choice
+Insert the URL: https://lioness3.github.io/portfolio-code-review/ into any web browser of your choice.
 
 # _Technology Used_
 
